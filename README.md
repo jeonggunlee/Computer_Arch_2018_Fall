@@ -28,7 +28,7 @@
       - Pipelined MIPS
       - Pipelined MIPS & Advanced Issues
    - Chapter 8 :: Memory Systems (PPT) : 메모리 계층, 캐쉬메모리 구조
-      -Direct Map Cache
+      - Direct Map Cache
 
 
 ## 실습
