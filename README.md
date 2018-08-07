@@ -20,15 +20,30 @@
 
 ## 강의노트
    - Chapter 6 :: MIPS 어셈블리 언어와 명령어 포맷
-      - Instruction formats
-      - MIPS procedures
-      - lw / sw assembly instructions and some others are explained
+      - 6.1 Introduction
+      - 6.2 Assembly Language
+      - 6.3 Machine Language
+      - 6.4 Programming
    - Chapter 7 :: Microarchitecture (PPT) : MIPS 프로세서의 구조, Pipelining
-      - Single Cycle MIPS
-      - Pipelined MIPS
-      - Pipelined MIPS & Advanced Issues
+      - 7.1 Introduction
+         - 7.1.1 Architectural State and Instruction Set
+         - 7.1.2 Design Process
+         - 7.1.3 MIPS Microarchitectures
+      - 7.2 Performance Analysis
+      - 7.3 Single-Cycle Processor
+         - 7.3.1 Single-Cycle Datapath
+         - 7.3.2 Single-Cycle Control
+         - 7.3.3 More Instructions
+         - 7.3.4 Performance Analysis
    - Chapter 8 :: Memory Systems (PPT) : 메모리 계층, 캐쉬메모리 구조
-      - Direct Map Cache
+      - 8.1 Introduction
+      - 8.2 Memory System Performance Analysis
+      - 8.3 Caches
+         - 8.3.1 What Data is Held in the Cache
+         - 8.3.2 How is Data Found?
+         - 8.3.3 What Data is Replaced?
+         - 8.3.4 Advanced Cache Design
+         - 8.3.5 The Evolution of MIPS Caches
 
 
 ## 실습
