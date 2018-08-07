@@ -1,6 +1,6 @@
 # 컴퓨터구조 (Computer Architecture) 2018 가을학기
 
->컴퓨터 시스템을 이루는 프로세서, 메모리, 버스, 주변 장치 등의 각 요소를 중심으로, 기본 구조와 동작 원리를 배우고, 이를 통해 하드웨어 및 소프트웨어의 개발에 필요한 깊이 있는 지식을 익힌다. 이 과정에서는 기초적인 요소 기술의 소개는 물론, 상용 기술의 사례 연구를 통해 수강자들이 최근의 기술 동향>을 파악하게 하고 향후에 이를 활용할 수 있는 기반 지식을 제공한다.
+>컴퓨터 시스템을 이루는 프로세서, 메모리, 버스, 주변 장치 등의 각 요소를 중심으로, 기본 구조와 동작 원리를 배우고, 이를 통해 하드웨어 및 소프트웨어의 개발에 필요한 깊이 있는 지식을 익힌다. 이 과정에서는 기초적인 요소 기술의 소개는 물론, 상용 기술의 사례 연구를 통해 수강자들이 최근의 기술 동향을 파악하게 하고 향후에 이를 활용할 수 있는 기반 지식을 제공한다.
 >
 > 이 과정에서는 또한 MIPS 프로세서 기반의 하드웨어를 중심으로 프로세서 구조, 어셈블리 프로그래밍 등을 실습함으로 이론을 확인, 심화하는 과정을 제공한다. 본 교과목은 <임베디드 시스템 개론> 및 <임베디드 하드웨어>의 권장 선수과목이다.
 
@@ -22,31 +22,29 @@
 
 ## 강의노트
    - Chapter 6 :: MIPS 어셈블리 언어와 명령어 포맷
-      - 6.1 Introduction
-      - 6.2 Assembly Language
-      - 6.3 Machine Language
-      - 6.4 Programming
-   - Chapter 7 :: Microarchitecture (PPT) : MIPS 프로세서의 구조, Pipelining
-      - 7.1 Introduction
-         - 7.1.1 Architectural State and Instruction Set
-         - 7.1.2 Design Process
-         - 7.1.3 MIPS Microarchitectures
-      - 7.2 Performance Analysis
-      - 7.3 Single-Cycle Processor
-         - 7.3.1 Single-Cycle Datapath
-         - 7.3.2 Single-Cycle Control
-         - 7.3.3 More Instructions
-         - 7.3.4 Performance Analysis
-   - Chapter 8 :: Memory Systems (PPT) : 메모리 계층, 캐쉬메모리 구조
-      - 8.1 Introduction
-      - 8.2 Memory System Performance Analysis
-      - 8.3 Caches
-         - 8.3.1 What Data is Held in the Cache
-         - 8.3.2 How is Data Found?
-         - 8.3.3 What Data is Replaced?
-         - 8.3.4 Advanced Cache Design
-         - 8.3.5 The Evolution of MIPS Caches
-
+      - 6.1 소개
+      - 6.2 어셈블리 언어
+      - 6.3 기계어
+      - 6.4 어셈블리를 이용한 프로그래밍 구조
+   - Chapter 7 :: Microarchitecture: MIPS 프로세서의 구조, Pipelining
+      - 7.1 소개
+         - 7.1.1 아키텍쳐의 상태 및 명령어 집합(Instruction Set)
+         - 7.1.2 설계 과정 (데이터패스, 제어패스)
+         - 7.1.3 MIPS 마이크로아키텍쳐
+      - 7.2 성능 분석
+      - 7.3 Single-Cycle 프로세서
+         - 7.3.1 Single-Cycle 데이터패스
+         - 7.3.2 Single-Cycle 제어
+         - 7.3.3 추가적인 명령어 지원
+         - 7.3.4 성능 분석
+   - Chapter 8 :: Memory Systems: 메모리 계층, 캐쉬메모리 구조
+      - 8.1 소개
+      - 8.2 메모리 시스템 성능 분석
+      - 8.3 Caches (캐시 메모리)
+         - 8.3.1 어떤 데이터를 캐시 메모리에 넣을것인가?
+         - 8.3.2 캐시 메모리에서 데이터를 어떻게 찾을 것인가?
+         - 8.3.3 어떤 데이터를 바꿀 것인가?
+         - 8.3.4 고급 캐시 설계
 
 ## 실습
    - QtSpim 을 이용한 MIPS 어셈블러 프로그래밍 ([Youtube](https://www.youtube.com/results?search_query=Qtsim+PCSIM+MIPS))
