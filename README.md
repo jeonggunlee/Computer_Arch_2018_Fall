@@ -34,6 +34,8 @@
 ## 실습
    - QtSpim 을 이용한 MIPS 어셈블러 프로그래밍 ([Youtube](https://www.youtube.com/results?search_query=Qtsim+PCSIM+MIPS))
    - Spim 공부를 위한 [좋은 곳](http://www.cs.ccsu.edu/~markov/ccsu_courses/254syllabus.html)!
+   
+   > SPIM은 오픈소스 SW로 구현된 MIPS 프로세서 시뮬레이터입니다. [MIPS 시뮬레이터](http://spimsimulator.sourceforge.net/)
 
 
 ## 참조 사이트
