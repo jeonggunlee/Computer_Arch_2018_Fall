@@ -36,7 +36,7 @@
    - Spim 공부를 위한 [좋은 곳](http://www.cs.ccsu.edu/~markov/ccsu_courses/254syllabus.html)!
    
    > SPIM은 오픈소스 SW로 구현된 MIPS 프로세서 시뮬레이터입니다. [MIPS 시뮬레이터](http://spimsimulator.sourceforge.net/)
-
+   ![Alt text](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/img/openss.png "오픈소스교과목")
 
 ## 참조 사이트
    - [MIPS 프로세서 위키백과사전](https://ko.wikipedia.org/wiki/MIPS_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) : 밉스 프로세서에 대한 자세한 설명을 한글로 볼수 있습니다.
