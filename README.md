@@ -8,6 +8,8 @@
 ### 담당교수: 이정근
    - 연구실:(성호관 1306호실) / Email: Jeonggun.Lee (AT) gmail.com
    - 전화번호: 033-248-2312 (연구실)
+   - 홈페이지: [www.onchip.net](www.onchip.net)
+   
 ### 담당조교: 정다운
    - (데이터베이스 연구실, Email:  )
    
