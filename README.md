@@ -29,6 +29,8 @@
       - 6.2 어셈블리 언어
       - 6.3 기계어
       - 6.4 어셈블리를 이용한 프로그래밍 구조
+      - 참조 동영상
+          - [ISA 1.1 Introduction to the ISA](https://www.youtube.com/watch?v=PlavjNH_RRU)
    - Chapter 7 :: Microarchitecture: MIPS 프로세서의 구조, Pipelining
       - 7.1 소개
          - 7.1.1 아키텍쳐의 상태 및 명령어 집합(Instruction Set)
