@@ -11,7 +11,7 @@
    - 홈페이지: [www.onchip.net](www.onchip.net)
    
 ### 담당조교: 정다운
-   - (데이터베이스 연구실, Email:  )
+   - (데이터베이스 연구실, Email: kozer9@gmail.com)
    
 ## 교재
    - 주교재: "[디지털논리와 컴퓨터설계](http://www.yes24.com/24/goods/3311366)," 데이비드 해리스,사라 해리스 공저/조영완 등역, 사이텍미디어
