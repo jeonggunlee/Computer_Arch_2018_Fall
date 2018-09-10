@@ -25,7 +25,7 @@
 
 ## 강의노트
    - Chapter 6 :: MIPS 어셈블리 언어와 명령어 포맷
-      - 6.1 소개
+      - 6.1 소개 [PPT](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/DDCA_Ch6%20-%201.pptx)
       - 6.2 어셈블리 언어
       - 6.3 기계어
       - 6.4 어셈블리를 이용한 프로그래밍 구조
