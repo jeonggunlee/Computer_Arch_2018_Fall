@@ -60,3 +60,41 @@ for (i=0; i != 10; i = i+1) {
 나가:
 
 ```
+
+```
+
+ * SLT (Set Less Than : 작은면 설정해! 
+   [slt  R3, R1, R2]
+	
+	if( R1 < R2 ) R3 <- 1
+	else R3 <- 0
+
+   // C 언어의 Ternary operator (삼항 연산자)
+   R3 = (R1 < R2) 1 : 0;
+================================
+# add the powers of 2 from 1 
+# to 100
+# $s0 = i, $s1 = sum
+# int sum = 0;
+	addi	$s1, $0, 0
+# int i=1
+	addi 	$s0, $0, 1
+	addi	$t0, $0, 101
+	addi	$t3, $0, 1
+위로:
+	# i < 101 돌아야!
+	slt	$t1, $s0, $t0    # $t1 ==1 gogo 아니면 나가야지!
+	bne	$t1, $t3, 나가
+	# sum = sum + i;
+	add	$s1, $s1, $s0
+	# i = i*2
+	sll	$s0, $s0, 1
+	j	위로
+나가:
+
+
+
+
+
+
+```
