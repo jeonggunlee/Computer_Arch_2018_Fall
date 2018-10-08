@@ -34,3 +34,29 @@ else
 	bne	$s0, $t0, 돌아라
 
 ```
+
+```
+// add the numbers from 0 to 9
+int sum = 0;
+int i;
+
+for (i=0; i != 10; i = i+1) {
+  sum = sum + i;
+}
+
+=>>
+
+# $s0 = i, $s1 = sum
+	addi	$s1, $0, 0
+	addi	$s0, $0, 0
+	addi	$t0, $0, 10
+
+올려줘:	beq	$s0, $t0, 나가
+	# for loop body : sum = sum + i
+	add	$s1, $s1, $s0
+	# i = i + 1
+	addi	$s0, $s0, 1
+	j	올려줘
+나가:
+
+```
