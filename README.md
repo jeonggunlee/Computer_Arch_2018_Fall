@@ -2,6 +2,8 @@
 
 *  *  *
 
+## QnA는 [여기](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/QnA.md)를 눌러 작성해주세요!
+
 ## [알림] 중간고사 10월 22일 (월요일) 오후 1시 강의실 1163-7
 
 ## [기출문제](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/tree/master/ex_exam) 참조하세요!
