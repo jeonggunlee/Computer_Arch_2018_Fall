@@ -3,6 +3,8 @@
 *  *  *
 ## QnA는 [여기](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/QnA.md)를 눌러 작성해주세요!
 
+## [알림] 보강 수업 --> 19일 월요일 오후 6시 1163-7 에서 진행합니다!!! 꼭꼭꼭 참석해주세요~!
+
 ## [알림] 중간고사 10월 22일 (월요일) 오후 1시 강의실 1163-7
 
 ## [기출문제](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/tree/master/ex_exam) 참조하세요!
