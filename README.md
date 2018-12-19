@@ -1,6 +1,8 @@
 # 컴퓨터구조 (Computer Architecture) 2018 가을학기
 
 *  *  *
+## [알림] 기말고사 12월 19일 (수요일) 오후 1시 강의실 1145
+
 ## QnA는 [여기](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/QnA.md)를 눌러 작성해주세요!
 
 ## (DONE!)[알림] 보강 수업 --> 19일 월요일 오후 6시 1163-7 에서 진행합니다!!! 꼭꼭꼭 참석해주세요~!
